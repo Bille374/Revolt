@@ -15,14 +15,14 @@
  ---------
             
 
-![NeoBank](https://ideausher.com/wp-content/uploads/2022/05/Revolut-Growth-Timeline.webp)
+
 
 
 ## [*Revolt*](Revolut)
 ----------
 > Revolut: is london-based digital banking system startup launched in 2015 by Nikolay Stroronsky and Vlad Yatsenko are the co-founders of Revolut.
 >>The idea of Revolut came from creating a digital system interacts with customers through digital banking using their smart phone.
->>>providing not only banking servies also, currency exchange and Appel pay.
+>>>providing not only banking servies also, currency exchange and appel pay.
 >>>>plus, the early entering into crypto-currency market helped to sky rocked their success.
 >>>>>It provides free-commissions on strock-trading and crypto.
 >>>>>>After 2020, Revolut become the boom digital banking when launched its servies in the United states and japan.
@@ -39,9 +39,9 @@ the algorithm used trigger an automated suspension of accounts then put them on 
 >![NeoBank Revolut's app downloads by country](https://thefinancialbrand.com/115750/how-revoluts-super-app-strategy-could-shake-up-u-s-banking/neobank-revoluts-app-downloads-by-country/)
 >>>The company intended customers are personal users like me Business users and countries.
   Revolut's app can be used as debit cards and an  exchange make it different than regular banks. instant money transfer between international banks and individuals with significantly less transfer fees.Revolut's charges a flat fee of 4 dollars per transaction whereas other banking institutions charge 35 dollars and take up to week to complete the transaction.
-  >Also, Revolut's business models"
+  >Also, Revolut's business models:
    - Isurance commissions
-   - Revolut's Trading
+   - Revolut's trading
    - Loans to other financial institutions
    - personal loans fron Revolut
    - Subscription plans
@@ -50,53 +50,57 @@ the algorithm used trigger an automated suspension of accounts then put them on 
    - Money transfer internationally
      
 >>>>Revolut the FinTech and financial startup to develop data-driven financial services using APIs.<br>
- Mobile phone used to      crypto-currency exchange allowing users to convert currencies into Bitcoin, Litecoin, Ethereum, Bitcoin Cash or 
+ Mobile phone crypto-currency exchange allowing users to convert currencies into Bitcoin, Litecoin, Ethereum, Bitcoin Cash or 
   XRP.
   -------
  
  
 
-## Landscape
+## *Landscape*
 > Revolut, is focusing on digital banking system to develop more APIs, they enable to share customers personal financial informations with third parties to generate opportunities for better deal on financial products.
 >>Revolut, major trends and innovations for the past 7 years has been focusing not only to get more customers using their app also has been focusing on develop more APIs for:
    1. Marchant API
    2. Revolut checkout.js
    3. Business API
-   4. On-Demand pay API,especially online sell plays roll as : 
-   1. Volt in Austria
-   2. Monza in UK and Germany
-   3. Sikicon Valley Bank
-   4. Kiva
-   5. G2 Deals
-   6. Deluxe Corporation
-   7. Fubdbox
-   ---------
+   4. On-Demand pay API,especially contributing on online sell 
+>>>Revolut,Competitors are"
+   5. Volt in Austria
+   6. Monza in UK and Germany
+   7. Sikicon Valley Bank
+   8. Kiva
+   9. G2 Deals   
+   10. Deluxe Corporation
+   11. Fubdbox
+  ----------------------------------
+  
+      
+    
            
-    
-    
-
-## Results
+  
+ ![NeoBank](https://ideausher.com/wp-content/uploads/2022/05/Revolut-Growth-Timeline.webp)
+## *Results*
 ------
 
-  >Revolut, will still proftibale throught coming years even the company reported losses before the COVID-19 pandemic and during COVID after being hit by lower customers spending abroad due the virus outbreak. 
-  >>Revollut, will keep proving their success as mobile payments and digital banking services.     
->>>Revolut, will keep growing and proftibale as long as the company keeps its progress by adopting a new technologies as entering into the internet of things, sensors and smart devices to utilize those informations gathered by machines and sensors be used better in financial investment and risk management.
+  >I Think a major impact that Revolts has made is allowing the opportunity to travel abroad without having to worry about spending a lot of money on foreign transaction fees or having to wait long periods of time for the transfer to process.
+  >>Revolut, core matrics are watching the rate that users at the top of funnel of conversion rates, bottom of funnel conversion rates and the costs assosciated with generating that traffic.
+  The grow rate has been very successful in 2016 therewhere 0.1 millions users with annual revenue 2.3 millions and profit with 15 millions.whereas in 2020 there were 12 millions users with annual 261 millions and profit 167 millions.      
+>>>compared to other competitors in this domain Revolut has higher revenue and more users.
 -------
 
 
 
-## Recommendations
+## *Recommendations*
 ------
 
 
-  >Revolut, should go public soon by then the company grow more then it is especially since it's been in US and Japan maketplace for a while by now, also the idea not only keep looking for a new customers since launch 2015, usin a  big data gathered from customers over the past years to train machines to become better learners and provide innovations for customers.
+  >Revolut, should go public soon by then the company grow more then it is especially since it's been in US and Japan maketplace for a while by now, also the idea not only keep looking for a new customers since launched in  2015, also using a big data gathered from customers over the past years to train machines to become better learners and provide innovations for customers.
   >>Entering in Blockchain Technoloy:<br>
       - Could potientially power the indentity market place<br>
       - could replace existing sturctures.<br>
       - Digitised assets with blockchain.<br>  
    1. Decentralised finance(DeFi)
    2. non-fugitable tokens(NFTs) 
-  >>>blockchain technolgy that Revolut should add in future to recure their networking and their customer privacy.
+  >>>blockchain technolgy that Revolut should add in future to secure their networking and their customer privacy.
   >>>>Smart Contract provides:
    1. improve security in financial services.
    2. eliminating third parties
