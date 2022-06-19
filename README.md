@@ -20,7 +20,7 @@
 
 ## [*Revolt*](Revolut)
 ----------
-> Revolut: is london-based digital banking system startup lauanched in 2015 by Nikolay Stroronsky and Vlad Yatsenko are the co-founders of Revolut.
+> Revolut: is london-based digital banking system startup launched in 2015 by Nikolay Stroronsky and Vlad Yatsenko are the co-founders of Revolut.
 >>The idea of Revolut came from creating a digital system interacts with customers through digital banking using their smart phone.
 >>>providing not only banking servies also, currency exchange and appel pay.
 >>>>plus, the early entering into crypto-currency market helped to sky rocked their success.
