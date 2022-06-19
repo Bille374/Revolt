@@ -52,6 +52,7 @@ the algorithm used trigger an automated suspension of accounts then put them on 
 >>>>Revolut the FinTech and financial startup to develop data-driven financial services using APIs.<br>
  Mobile phone and overseas medical insurance      crypto-currency exchange allowing users to convert currencies into Bitcoin, Litecoin, Ethereum, Bitcoin Cash or 
   XRP.
+  -------
  
  
 
@@ -61,8 +62,7 @@ the algorithm used trigger an automated suspension of accounts then put them on 
    1. Marchant API
    2. Revolut checkout.js
    3. Business API
-   4. On-Demand pay API,especially online sell plays roll as intermediatepay between bank and their customers.
- >What are the other major companies in this domain: 
+   4. On-Demand pay API,especially online sell plays roll as : 
    1. Volt in Austria
    2. Monza in UK and Germany
    3. Sikicon Valley Bank
@@ -70,37 +70,37 @@ the algorithm used trigger an automated suspension of accounts then put them on 
    5. G2 Deals
    6. Deluxe Corporation
    7. Fubdbox
-   
+   ---------
            
     
     
 
 ## Results
+------
 
   >Revolut, will still proftibale throught coming years even the company reported losses before the COVID-19 pandemic and during COVID after being hit by lower customers spending abroad due the virus outbreak. 
-
-  >Revollut, will keep proving their success as mobile payments and digital banking services. 
-   
-    
-
+  >>Revollut, will keep proving their success as mobile payments and digital banking services.     
 >>>Revolut, will keep growing and proftibale as long as the company keeps its progress by adopting a new technologies as entering into the internet of things, sensors and smart devices to utilize those informations gathered by machines and sensors be used better in financial investment and risk management.
+-------
 
 
 
 ## Recommendations
+------
 
 
   >Revolut, should go public soon by then the company grow more then it is especially since it's been in US and Japan maketplace for a while by now, also the idea not only keep looking for a new customers since launch 2015, usin a  big data gathered from customers over the past years to train machines to become better learners and provide innovations for customers.
-  >Entering in Blockchain Technoloy:<br>
+  >>Entering in Blockchain Technoloy:<br>
       - Could potientially power the indentity market place<br>
       - could replace existing sturctures.<br>
       - Digitised assets with blockchain.<br>  
    1. Decentralised finance(DeFi)
    2. non-fugitable tokens(NFTs) 
-  >>blockchain technolgy that Revolut should add in future to recure their networking and their customer privacy.
->>>>Smart Contract provides:
+  >>>blockchain technolgy that Revolut should add in future to recure their networking and their customer privacy.
+  >>>>Smart Contract provides:
    1. improve security in financial services.
    2. eliminating third parties
    3. faster transaction and lower fees
+   ---------
   
 
