@@ -22,7 +22,7 @@
 ----------
 > Revolut: is london-based digital banking system startup launched in 2015 by Nikolay Stroronsky and Vlad Yatsenko are the co-founders of Revolut.
 >>The idea of Revolut came from creating a digital system interacts with customers through digital banking using their smart phone.
->>>providing not only banking servies also, currency exchange and appel pay.
+>>>providing not only banking servies also, currency exchange and Appel pay.
 >>>>plus, the early entering into crypto-currency market helped to sky rocked their success.
 >>>>>It provides free-commissions on strock-trading and crypto.
 >>>>>>After 2020, Revolut become the boom digital banking when launched its servies in the United states and japan.
@@ -50,7 +50,7 @@ the algorithm used trigger an automated suspension of accounts then put them on 
    - Money transfer internationally
      
 >>>>Revolut the FinTech and financial startup to develop data-driven financial services using APIs.<br>
- Mobile phone and overseas medical insurance      crypto-currency exchange allowing users to convert currencies into Bitcoin, Litecoin, Ethereum, Bitcoin Cash or 
+ Mobile phone used to      crypto-currency exchange allowing users to convert currencies into Bitcoin, Litecoin, Ethereum, Bitcoin Cash or 
   XRP.
   -------
  
