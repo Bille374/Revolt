@@ -64,13 +64,13 @@ the algorithm used trigger an automated suspension of accounts then put them on 
    3. Business API
    4. On-Demand pay API,especially contributing on online sell 
 >>>Revolut,Competitors are"
-   5. Volt in Austria
-   6. Monza in UK and Germany
-   7. Sikicon Valley Bank
-   8. Kiva
-   9. G2 Deals   
-   10. Deluxe Corporation
-   11. Fubdbox
+   1. Volt in Austria
+   2. Monza in UK and Germany
+   3. Sikicon Valley Bank
+   4. Kiva
+   5. G2 Deals   
+   6. Deluxe Corporation
+   7. Fubdbox
   ----------------------------------
   
       
